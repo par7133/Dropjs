@@ -9,4 +9,4 @@ between scripts.
 Open the Dropjs page two times and try the  
 drag and drop feature from one to the others  
 
-Feedback: posta@elettronica.lol
+Feedback: <a href="mailto:code@gaox.io">code@gaox.io</a>
